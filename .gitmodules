@@ -4,3 +4,21 @@
 [submodule "task2"]
 	path = task2
 	url = https://github.com/MYIIIKET/task2
+[submodule "task1_1"]
+	path = task1_1
+	url = https://github.com/MYIIIKET/task1_1
+[submodule "task1_2"]
+	path = task1_2
+	url = https://github.com/MYIIIKET/task1_2
+[submodule "task1_3"]
+	path = task1_3
+	url = https://github.com/MYIIIKET/task1_3
+[submodule "task1_4"]
+	path = task1_4
+	url = https://github.com/MYIIIKET/task1_4
+[submodule "task1_5"]
+	path = task1_5
+	url = https://github.com/MYIIIKET/task1_5
+[submodule "task1_6"]
+	path = task1_6
+	url = https://github.com/MYIIIKET/task1_6
